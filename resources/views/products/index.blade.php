@@ -87,7 +87,7 @@
                                     <td colspan="6" class="text-center py-5">
                                         <div class="text-muted">
                                             <i class="bi bi-inbox h1 d-block mb-3 opacity-25"></i>
-                                            No products found in the database.
+                                            Tidak ada produk tersedia.
                                         </div>
                                     </td>
                                 </tr>
